@@ -9,5 +9,6 @@ module.exports = {
 
     app.import(app.bowerDirectory + '/nouislider/distribute/jquery.nouislider.all.js');
     app.import(app.bowerDirectory + '/nouislider/distribute/jquery.nouislider.min.css');
+    app.import(app.bowerDirectory + '/nouislider/distribute/jquery.nouislider.pips.min.css');
   }
 };
